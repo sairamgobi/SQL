@@ -1,0 +1,11 @@
+
+--CREATE TABLE Employee_Personal_Details(Emp_id INT,Emp_name VARCHAR,Emp_Address VARCHAR,Emp_Designation VARCHAR,Emp_Emergency_ph_no VARCHAR,Emp_Personal_ph_no VARCHAR,Emp_dept VARCHAR );
+--INSERT INTO Employee_Personal_Details(Emp_id ,Emp_name ,Emp_Address ,Emp_Designation ,Emp_Emergency_ph_no ,Emp_Personal_ph_no ,Emp_dept )
+--VALUES(123 , 'Sai' , 'abc company','HR',9492032452,7385489392,'IT'),
+--(324 , 'Gogul' , 'abc company','HR',9542022451,9685489395,'IT'),
+--(981 , 'PraveenRaj' , 'abc company','Developer',6748857239,9772348872,'CSE'),
+--(999 , 'SathishKumar' , 'abc company','Tester',9472864829,6374729284,'AIDS');
+--CREATE TABLE Employee_Salary_Details(Emp_id INT,HRA INT,DA INT,TA INT,Basic_Salary INT, Dept VARCHAR,Total_Salary INT);
+--INSERT INTO Employee_Salary_Details(Emp_id ,HRA ,DA ,TA ,Basic_Salary , Dept ,Total_Salary) VALUES (123,13000,5000,3000,30000,'IT',51000),(324,12000,6000,2000,28000,'IT',48000),
+--(981,13000,8000,2000,40000,'CSE',63000),
+--(999,10000,7000,1000,15000,'AIDS',33000);
